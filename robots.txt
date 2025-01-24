@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://mega303hoki.github.io/sitemap.xml
